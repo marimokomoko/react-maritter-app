@@ -1,0 +1,12 @@
+body {
+  --maritter-color: #d8a558;
+  --maritter-background: #f8eddd;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
