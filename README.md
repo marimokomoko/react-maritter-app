@@ -1,2 +1,2 @@
 # react-maritter-app
-(WIP)twitterクローンアプリ
+(WIP)Reactつぶやきアプリ
